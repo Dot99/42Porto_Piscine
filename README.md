@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=https://www.42network.org/wp-content/uploads/2022/01/42-Porto-420x140.jpg alt="logo" width="420" height="140" />
+<img src="https://www.42network.org/wp-content/uploads/2022/01/42-Porto-300x100.jpg" alt="logo" width="420" height="140" />
 
 <h1>42 Piscine</h1>
 <p>My journey through the #8 42 Piscine Porto (15/Dec - 5/Jan)</p>
